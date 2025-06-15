@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Go
 
 <!-- START CREDLY BADGES -->
+[![Dremio Verified Lakehouse Associate](https://images.credly.com/size/80x80/images/12243391-8d11-4265-93b3-c82d8479f681/blob)](https://www.credly.com/badges/5c67306e-d2eb-4de7-9646-c22d15f2ff32)
 [![Kubernetes Admin Network Policy Shodan](https://images.credly.com/size/80x80/images/b38c2d4f-f4bb-4f8e-aa6c-d8c8b01529a2/blob)](https://www.credly.com/badges/6edf386b-789f-4a35-89ce-982883f46e69)
 [![Securing the AI/ML Supply Chain With Chainguard](https://images.credly.com/size/80x80/images/5750aba6-98f3-43dd-b2d0-3d5a5d11edfd/blob)](https://www.credly.com/badges/d7eb4b91-8394-4f50-9c05-76dd2583ae52)
 [![Painless Vulnerability Management With Chainguard](https://images.credly.com/size/80x80/images/72b653fc-36a6-4dd3-8dc4-c73caa564f77/blob)](https://www.credly.com/badges/940776fe-5cb6-4844-bc71-37a47975da11)
