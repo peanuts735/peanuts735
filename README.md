@@ -1,4 +1,4 @@
-QA Branch in test.
+Profile just to training.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
