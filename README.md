@@ -2,6 +2,10 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Go
 
+### :octocat: Atividades:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 🗣 My activity:
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
