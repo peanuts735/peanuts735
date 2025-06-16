@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @peanuts735
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Go
-
+QA Branch in test.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
