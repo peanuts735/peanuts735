@@ -7,3 +7,7 @@ Profile just to training.
 <!--END_SECTION:activity-->
 
 ![Programming Facts Card](https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-facts-card?theme=neon_horizon)
+
+
+<!-- my-badges start -->
+<!-- my-badges end -->
