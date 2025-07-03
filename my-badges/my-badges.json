@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/peanuts735/peanuts735/commit/a721886e21cd6686950659f12a77ad4e6a0330e0\"><strong>a</strong>721886e21cd6686950659f12a77ad4e6a0330e0</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/peanuts735/GHchart/commit/abe746c17c24aae1d458f85214949a5c57508a29\"><strong>ab</strong>e746c17c24aae1d458f85214949a5c57508a29</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/peanuts735/GHchart/commit/abcc755e5435ac41f17d40cd2f0b6ccf7f4f862f\"><strong>abc</strong>c755e5435ac41f17d40cd2f0b6ccf7f4f862f</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/peanuts735/GHchart/commit/92187c27bcafe235f1cb0d3eb0f787f6a8d60b5e\">92187c27b<strong>cafe</strong>235f1cb0d3eb0f787f6a8d60b5e</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/peanuts735/GHchart/commit/eda740323d9ef1cb7f153dead3835b935c68993e\">eda740323d9ef1cb7f153<strong>dead</strong>3835b935c68993e</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"daily\".",
+    "body": "My favorite commit message words are:\n\n1. daily (used 682 times)\n2. contribution (used 682 times)\n3. update (used 18 times)\n4. readme.md (used 17 times)\n5. create (used 8 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/peanuts735/GHchart/commit/ed05d43e01d2c2e0beb16b91aa58aec9a1825389\">ed05d43</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/aef5bd7aa6c39e2a65b3ac6266778fb7829a36d1\">aef5bd7</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/cd24d2578a38171c3eff0662f8b3d938683191fe\">cd24d25</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/111f311b2f8f05b9c063d54bb142c4c2363bc322\">111f311</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/d5feb88b6ad4f536eac36dde7689d05623638c0b\">d5feb88</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/peanuts735/peanuts735\">peanuts735/peanuts735</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/peanuts735/GHchart/commit/78283e2c030de617444f564db30618098cf4a6c0\">78283e2</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/12d9a4940dd5c9930162a5cdb7c199e4fe33c5be\">12d9a49</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/e28af4c864675102e0ab12df565610b634af17b6\">e28af4c</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/df4438687133be51d120448ef9fdb8b4e6226980\">df44386</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/a1eec0c01a72cb936af8778da784a73e840a46d2\">a1eec0c</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/c4a7df5b2ebc25257bf8df8f9e3825bbc10d5b06\">c4a7df5</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/peanuts735/GHchart/commit/9148dfa7737dbe4835793310656d873463deff49\">9148dfa</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/235fbe3fd2b1f3bf6ccadbd37fb18b4d31641b51\">235fbe3</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/59220c3e037c38670aef65cd9e615814c6f38e39\">59220c3</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/93901f2649f7a058ecc36689536f7f34cfaec98a\">93901f2</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/39b5d3ad9700a3a8439e07cd6c640d6e9b266a4a\">39b5d3a</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/7927405bea7041e2d72603922e03607001196aca\">7927405</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/peanuts735/peanuts735/commit/2a40a0c788e2073eeed77f57d81d86e5133088fa\">2a40a0c</a>\n- <a href=\"https://github.com/peanuts735/peanuts735/commit/6aab4fc6642eb65d5dc8e447a78ca0257dc10503\">6aab4fc</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/5cfd819107f087318d19d5157961280d106d70b0\">5cfd819</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/f7d7ca59856b641f41b7412a6ebb05729dd81fe6\">f7d7ca5</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/e84a390825ca0181f421650b9299dd40689a3236\">e84a390</a>\n- <a href=\"https://github.com/peanuts735/GHchart/commit/817eba205baf4f9ffbce0a88d784832974bb3c6f\">817eba2</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/peanuts735/GHchart/commit/4ac8233ba8df905b34a33fa6d0e84d7aa490a0b9\">4ac8233</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
